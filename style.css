@@ -227,7 +227,7 @@ h2 {
   height: 20px;
 }
 footer {
-  background: var(--ink);
+  background: var(--gold-gradient);
   color: var(--bg);
   padding: 32px 0 96px;
   font-size: 15px;
