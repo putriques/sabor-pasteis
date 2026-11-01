@@ -9,6 +9,7 @@
   --line: #eadfc4;
   --wa: #25d366;
   --wa-ink: #06361a;
+  --insta: linear-gradient( 135deg,#FCAF45 0%, #F56040 25%, #E1306C 50%,  #C13584 75%,  #833AB4 100%);
   box-sizing: border-box;
   padding-top: env(safe-area-inset-top, 0px);
   padding-bottom: env(safe-area-inset-bottom, 0px);
@@ -142,7 +143,7 @@ a:focus-visible {
   color: var(--wa-ink);
 }
 .btn.ig {
-  background: transparent;
+  background: var(--insta);
   color: inherit;
   border: 2px solid currentColor;
 }
