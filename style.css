@@ -55,7 +55,7 @@ body {
   padding: 0 20px;
 }
 header.top {
-  background: var(--gold-gradient);
+  background: var(--gold-);
   color: var(--gold-ink);
 }
 header.top .wrap {
@@ -95,7 +95,7 @@ a:focus-visible {
   outline-offset: 3px;
 }
 .hero {
-  background: var(--gold-gradient);
+  background: var(--gold);
   color: var(--gold-ink);
   padding: 28px 0 64px;
 }
@@ -180,9 +180,9 @@ h2 {
   font-size: 15px;
 }
 .day.on {
-  background: var(--gold-gradient);
+  background: var(--gold);
   color: var(--gold-ink);
-  border-color: var(--gold-gradient);
+  border-color: var(--gold);
 }
 .day.on span {
   color: var(--gold-ink);
