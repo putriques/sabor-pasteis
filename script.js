@@ -1,4 +1,4 @@
-var SPOTS=[["Domingo","Fechado",0],["Segunda","Fechado",0],["Terça","Feira do Verbo Divino",1],["Quarta","Feira Agudos do Sul",1],["Quinta","Feira Rua XV de Novembro, 10h às 17h",1],["Sexta","Feira Ouro Fino",1],["Sábado","Feira Rua XV de Novembro, 10h às 17h",1]];
+var SPOTS=[["Domingo","Fechado",0],["Segunda","Fechado",0],["Terça","Feira do Verbo Divino",1],["Quarta","Feira Agudos do Sul",1],["Quinta","Feira Rua XV de Novembro",1],["Sexta","Feira Ouro Fino",1],["Sábado","Feira Rua XV de Novembro",1]];
 var NOMES=["domingo","segunda","terça","quarta","quinta","sexta","sábado"];
 var d=new Date().getDay();
 var week=document.getElementById("week");
