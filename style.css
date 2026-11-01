@@ -4,7 +4,7 @@
   --ink: #1c1a16;
   --muted: #6b6558;
   --gold: #d4d11c;
-  --gold-gradient: linear-gradient( 135deg, #FFF59D, #FFDF32);
+  --gold-gradient: background-linear-gradient( 135deg, #FFF59D, #FFDF32);
   --gold-ink: #1c1a16;
   --line: #eadfc4;
   --wa: #25d366;
